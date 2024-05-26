@@ -1,5 +1,5 @@
 ## Hello there, I'm Sandro, welcome to my GitHub profile !
-<p align="left"> Here, you'll find a collection of projects showcasing my work in the field of geospatial data science aiming to develop sustainable solutions. <br><br> With a background in environmental management, I've been developing some personal projects to collaborate with the geospatial community. Here you'll find projects related to: <br><br>
+<p align="left"> Here, you'll find a collection of projects showcasing my work in the field of geospatial data science aiming to develop sustainable solutions. <br><br> With a background in environmental management, I've been developing some projects to collaborate with the geospatial community. Here you'll find projects related to: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
 - Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
@@ -11,11 +11,11 @@
 - Integration: Integrating PostGIS with other tools and platforms, such as Geopandas, QGIS, GEE, and web mapping applications.
 <br><br>
 ### *Environmental Management Applications*
-- Fire Detection and monitoring: Detecting active fires and mapping burned areas using MODIS, VIIRS, and Sentinel-2 data. Fire hotspot detection, burn severity assessment, and post-fire vegetation recovery analysis.<br><br>
+- Deforestation and Forest Degradation: Monitoring deforestation and forest degradation with multiple sensors. Time series analysis, change detection algorithms, deforestation risk assessment, forest cover classification. <br><br>
+- Fire Detection and monitoring: Detecting active fires and mapping burned areas using MODIS and Sentinel-2 data. Fire hotspot detection, burn severity assessment, and post-fire vegetation recovery analysis.<br><br>
 - Water Resource Management: Tools and scripts for analyzing hydrological data, watershed delineation, water quality and flood risk assessment.<br><br>
 - Pollution Monitoring: Methods for tracking and analyzing environmental pollutants using geospatial data.<br><br>
 - Agricultural Monitoring: Using multispectral imagery from Landsat and Sentinel-2 to monitor crop health, estimate yield, and detect pests and diseases with vegetation indices (NDVI, SAVI), phenological metrics, and classification of crop types.<br><br>
-- Deforestation and Forest Degradation: Monitoring deforestation and forest degradation using time series analysis of Landsat and Sentinel imagery. Change detection algorithms, forest cover classification. <br><br>
 - Coastal Erosion Assessment: Analyzing shoreline changes and coastal erosion using historical imagery from Landsat. Shoreline extraction, erosion/accretion rate calculation, and impact assessment of sea level rise.<br><br>
 - Urban Sprawl Detection: Detecting and analyzing urban expansion over time using high-resolution imagery from Landsat and Sentinel-2. Land use/land cover change detection, impervious surface mapping, and urban growth modeling.<br><br>
 
