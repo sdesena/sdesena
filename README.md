@@ -2,7 +2,7 @@
 <p align="left"> Here, you'll find a collection of projects showcasing my work in the field of geospatial data science aiming to develop sustainable solutions. <br><br> With a background in environmental management, I've been developing some personal projects to collaborate with the geospatial community. Here you'll find projects related to: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
-- Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, change detection, and vegetation monitoring.<br><br>
+- Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
 - Climate and Weather Data: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
 - WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping.<br><br>
 ### *Spatial Database Management with PostGIS*
