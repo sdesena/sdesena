@@ -1,5 +1,5 @@
 ## Hello there, I'm Sandro, welcome to my GitHub profile !
-<p align="left"> Here, you'll find a collection of projects and scripts showcasing my work in the field of geospatial data science aiming to develop sustainable solutions. <br><br> With a background in environmental management, I've been developing some personal projects to collaborate with the geospatial community. Here you'll find projects related to: <br><br>
+<p align="left"> Here, you'll find a collection of projects showcasing my work in the field of geospatial data science aiming to develop sustainable solutions. <br><br> With a background in environmental management, I've been developing some personal projects to collaborate with the geospatial community. Here you'll find projects related to: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
 - Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, change detection, and vegetation monitoring.<br><br>
