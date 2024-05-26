@@ -5,9 +5,9 @@
 - Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
 - Climate and Weather Data: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
 - WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping.<br><br>
-### *Spatial Database Management with PostGIS*
-- Database Design: Best practices and templates for designing spatial databases optimized for environmental data.<br><br>
-- Spatial Queries: Examples of complex spatial queries to extract meaningful insights from large datasets.<br><br>
+### *Spatial Database Management*
+- Database Design: Best practices for designing spatial databases optimized for environmental data.<br><br>
+- Spatial Queries: Examples of spatial queries to extract meaningful insights from large datasets.<br><br>
 - Integration: Integrating PostGIS with other tools and platforms, such as Geopandas, QGIS, GEE, and web mapping applications.
 <br><br>
 ### *Environmental Management Applications*
