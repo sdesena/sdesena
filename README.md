@@ -1,5 +1,5 @@
 ## Hey there, welcome ! 🌍
-<p align="left"> Here you'll find some of my projects showcasing the development of solutions for environmental challenges with geospatial data science. The main themes I like to explore are: <br><br>
+<p align="left"> Here you'll find a some of my projects that showcase the power of geospatial data science in tackling environmental challenges.  Get ready to explore solutions related to: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
 - Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
