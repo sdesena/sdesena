@@ -1,5 +1,5 @@
-## Hi there, welcome ! 🌍
-<p align="left"> I'm diving into geospatial data science to explore solutions for environmental challenges. Feel free to explore this profile, here you'll find some projects related to: <br><br>
+## Hey there, welcome ! 🌍
+<p align="left"> Here you'll find some of my projects showcasing the development of solutions for environmental challenges with geospatial data science. The main themes I like to explore are: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
 - Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
@@ -19,13 +19,10 @@
 - Coastal Erosion Assessment: Analyzing shoreline changes and coastal erosion using historical imagery from Landsat. Shoreline extraction, erosion/accretion rate calculation, and impact assessment of sea level rise.<br><br>
 - Urban Sprawl Detection: Detecting and analyzing urban expansion over time using high-resolution imagery from Landsat and Sentinel-2. Land use/land cover change detection, impervious surface mapping, and urban growth modeling.<br><br>
 
-### Getting Started
-To get started, clone any of the repositories and follow the instructions in the README files. Most projects require knowledge of Python, JavaScript, SQL, and geospatial concepts. For remote sensing projects, familiarity with the Google Earth Engine API is beneficial. For database-related projects, a working knowledge of PostGIS and SQL is recommended.
-
 ### Contributions and Collaboration
 I welcome contributions and collaboration, as this page is always in progress! If you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback or reach out for collaborations via GitHub Issues or by contacting me through my social medias.
   <br><br>
-Thank you for visiting my GitHub profile, follow me to keep updated! I hope you find these resources useful and inspiring !
+Thank you for visiting my GitHub profile. I hope you find these resources useful and inspiring !
 </p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
  </div>
