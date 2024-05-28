@@ -1,4 +1,4 @@
-## Hello there, I'm Sandro, welcome to my GitHub profile !
+## Hello there, welcome to my GitHub profile ! 🌍
 <p align="left"> Here, you'll find a collection of projects showcasing my work in the field of geospatial data science aiming to develop sustainable solutions. <br><br> With a background in environmental management, I've been developing some projects to collaborate with the geospatial community. Here you'll find projects related to: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
@@ -25,7 +25,7 @@ To get started, clone any of the repositories and follow the instructions in the
 ### Contributions and Collaboration
 I welcome contributions and collaboration, as this page is always in progress! If you have ideas for improvements, new features, or entirely new projects, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or feature requests, and I’ll be happy to engage with you. Feel free to provide feedback or reach out for collaborations via GitHub Issues or by contacting me through my social medias.
   <br><br>
-Thank you for visiting my GitHub profile, follow me to keep updated! I hope you find these resources useful and inspiring 🌍🚀
+Thank you for visiting my GitHub profile, follow me to keep updated! I hope you find these resources useful and inspiring !
 </p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
  </div>
