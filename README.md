@@ -1,12 +1,12 @@
-## Hello there, welcome to my GitHub profile ! 🌍
-<p align="left"> Here, you'll find a collection of projects showcasing my work in the field of geospatial data science aiming to develop sustainable solutions. <br><br> With a background in environmental management, I've been developing some projects to collaborate with the geospatial community. Here you'll find projects related to: <br><br>
+## Hi there, welcome ! 🌍
+<p align="left"> I'm diving into geospatial data science to explore solutions for environmental challenges. Feel free to explore this profile, here you'll find some projects related to: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
 - Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
 - Climate and Weather Data: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
 - WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping.<br><br>
 ### *Spatial Database Management*
-- Database Design: Best practices for designing spatial databases optimized for environmental data.<br><br>
+- Database Design: Best practices for designing spatial databases.<br><br>
 - Spatial Queries: Examples of spatial queries to extract meaningful insights from large datasets.<br><br>
 - Integration: Integrating PostGIS with other tools and platforms, such as Geopandas, QGIS, GEE, and web mapping applications.
 <br><br>
@@ -23,7 +23,7 @@
 To get started, clone any of the repositories and follow the instructions in the README files. Most projects require knowledge of Python, JavaScript, SQL, and geospatial concepts. For remote sensing projects, familiarity with the Google Earth Engine API is beneficial. For database-related projects, a working knowledge of PostGIS and SQL is recommended.
 
 ### Contributions and Collaboration
-I welcome contributions and collaboration, as this page is always in progress! If you have ideas for improvements, new features, or entirely new projects, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or feature requests, and I’ll be happy to engage with you. Feel free to provide feedback or reach out for collaborations via GitHub Issues or by contacting me through my social medias.
+I welcome contributions and collaboration, as this page is always in progress! If you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback or reach out for collaborations via GitHub Issues or by contacting me through my social medias.
   <br><br>
 Thank you for visiting my GitHub profile, follow me to keep updated! I hope you find these resources useful and inspiring !
 </p>&nbsp;
