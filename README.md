@@ -1,5 +1,5 @@
 ## Hey there, welcome ! 🌍
-<p align="left"> Here you'll find a some of my projects that showcase the power of geospatial data science in tackling environmental challenges.  Get ready to explore solutions related to: <br><br>
+<p align="left"> I'm developing some projects that showcase the power of geospatial data science in tackling environmental challenges. So, feel free to exlore and collaborate with me in subjects related to: <br><br>
 
 ### *Remote Sensing with Google Earth Engine (GEE)*
 - Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
@@ -20,7 +20,7 @@
 - Urban Sprawl Detection: Detecting and analyzing urban expansion over time using high-resolution imagery from Landsat and Sentinel-2. Land use/land cover change detection, impervious surface mapping, and urban growth modeling.<br><br>
 
 ### Contributions and Collaboration
-I welcome contributions and collaboration, as this page is always in progress! If you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback or reach out for collaborations by contacting me through my social medias.
+If you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback or reach out for collaborations by contacting me through my social medias.
   <br><br>
 Thank you for visiting my GitHub profile. I hope you find these resources useful and inspiring !
 </p>&nbsp;
