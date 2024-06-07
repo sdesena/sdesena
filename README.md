@@ -1,23 +1,17 @@
 ## Hey there, welcome ! 🌍
-<p align="left"> I'm developing some projects that showcase the power of geospatial data science in tackling environmental challenges. So, feel free to exlore and collaborate with me in subjects related to: <br><br>
-
-### *Remote Sensing with Google Earth Engine (GEE)*
-- Satellite Imagery Analysis: Scripts and projects for processing and analyzing satellite imagery, including land cover classification, time-series analysis, change detection, and vegetation monitoring.<br><br>
-- Climate and Weather Data: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
-- WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping.<br><br>
-### *Spatial Database Management*
-- Database Design: Best practices for designing spatial databases.<br><br>
-- Spatial Queries: Examples of spatial queries to extract meaningful insights from large datasets.<br><br>
-- Integration: Integrating PostGIS with other tools and platforms, such as Geopandas, QGIS, GEE, and web mapping applications.
-<br><br>
-### *Environmental Management Applications*
-- Deforestation and Forest Degradation: Monitoring deforestation and forest degradation with multiple sensors. Time series analysis, change detection algorithms, deforestation risk assessment, forest cover classification. <br><br>
+<p align="left"> Here you'll find some projects that I'm working on with remote sensing and spatial database management, developing geospatial data science solutions for environmental challenges. Feel free to reach out and collaborate with me in subjects related to many environmental applications such as: <br><br>
+  
+- Deforestation and Forest Degradation Detection: Monitoring deforestation and forest degradation with multiple sensors. Time series analysis, change detection algorithms, deforestation risk assessment, forest cover classification. <br><br>
 - Fire Detection and monitoring: Detecting active fires and mapping burned areas using MODIS and Sentinel-2 data. Fire hotspot detection, burn severity assessment, and post-fire vegetation recovery analysis.<br><br>
 - Water Resource Management: Tools and scripts for analyzing hydrological data, watershed delineation, water quality and flood risk assessment.<br><br>
 - Pollution Monitoring: Methods for tracking and analyzing environmental pollutants using geospatial data.<br><br>
 - Agricultural Monitoring: Using multispectral imagery from Landsat and Sentinel-2 to monitor crop health, estimate yield, and detect pests and diseases with vegetation indices (NDVI, SAVI), phenological metrics, and classification of crop types.<br><br>
 - Coastal Erosion Assessment: Analyzing shoreline changes and coastal erosion using historical imagery from Landsat. Shoreline extraction, erosion/accretion rate calculation, and impact assessment of sea level rise.<br><br>
 - Urban Sprawl Detection: Detecting and analyzing urban expansion over time using high-resolution imagery from Landsat and Sentinel-2. Land use/land cover change detection, impervious surface mapping, and urban growth modeling.<br><br>
+- Climate and Weather Analysis: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
+- WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br>
+- Spatial Queries: Examples of spatial queries to extract meaningful insights from large datasets.<br><br>
+- Integration: Integrating PostGIS with other tools and platforms, such as Geopandas, QGIS, GEE, and web mapping applications.<br><br>
 
 ### Contributions and Collaboration
 If you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback or reach out for collaborations by contacting me through my social medias.
