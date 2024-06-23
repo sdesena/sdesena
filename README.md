@@ -7,7 +7,6 @@
 - Pollution Monitoring: Methods for tracking and analyzing environmental pollutants using geospatial data.<br><br>
 - Agricultural Monitoring: Using multispectral imagery from Landsat and Sentinel-2 to monitor crop health, estimate yield, and detect pests and diseases with vegetation indices (NDVI, SAVI), phenological metrics, and classification of crop types.<br><br>
 - Coastal Erosion Assessment: Analyzing shoreline changes and coastal erosion using historical imagery from Landsat. Shoreline extraction, erosion/accretion rate calculation, and impact assessment of sea level rise.<br><br>
-- Urban Sprawl Detection: Detecting and analyzing urban expansion over time using high-resolution imagery from Landsat and Sentinel-2. Land use/land cover change detection, impervious surface mapping, and urban growth modeling.<br><br>
 - Climate and Weather Analysis: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
 - WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br>
 - Spatial Queries: Examples of spatial queries to extract meaningful insights from large datasets.<br><br>
