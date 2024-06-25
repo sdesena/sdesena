@@ -12,7 +12,7 @@
 - WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br>
 
 ### Contributions and Collaboration
-If you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback and reach out for collaborations by contacting me through my social medias.
+This profile is always in progress, so if you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback and reach out for collaborations by contacting me through my social medias.
   <br><br>
 Thank you for visiting my GitHub profile. I hope you find these resources useful and inspiring !
 </p>&nbsp;
