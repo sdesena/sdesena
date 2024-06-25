@@ -9,7 +9,7 @@
 - Pollution Monitoring: Methods for tracking and analyzing environmental pollutants using geospatial data.<br><br>
 - Spatial Queries: Examples of spatial queries to extract meaningful insights from large datasets.<br><br>
 - Spatial Database Management: Integrating PostGIS with other tools and platforms, such as Geopandas, QGIS, GEE, and web mapping applications.<br><br>
-- WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br
+- WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br>
 
 ### Contributions and Collaboration
 If you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback and reach out for collaborations by contacting me through my social medias.
