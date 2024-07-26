@@ -6,7 +6,7 @@
 - Climate and Weather Analysis: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
 - Fire Detection and monitoring: Detecting active fires and mapping burned areas using MODIS and Sentinel-2 data. Fire hotspot detection, burn severity assessment, and post-fire vegetation recovery analysis.<br><br>
 - Water Resource Management: Tools and scripts for analyzing hydrological data, watershed delineation, water quality and flood risk assessment.<br><br>
-- Spatial Data Engeneering: Data pipelines using postgreSQL, postGIS, Google Big Query, Google Cloud Platform, Databricks, Hadoop and Spark.<br><br>
+- Spatial Database Magamement: data engeneering with postgreSQL, postGIS, Google Big Query, Hadoop and Spark.<br><br>
 - WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br>
 
 ### Contributions and Collaboration
