@@ -1,13 +1,13 @@
 ## Hi there, welcome ! 🌍
 <p align="left"> This GitHub profile serves as a repository for my projects and contributions in the field of geospatial data science for environmental applications. I encourage you to explore my work and connect with me if you share my passion for leveraging data for a more sustainable future. My background includes a degree in environmental management, coupled with an MBA focused on Data Science and Analytics. I'm developing projects related to: <br><br>
   
-- Deforestation and Forest Degradation Detection: Monitoring deforestation and forest degradation with multiple sensors. Time series analysis, change detection algorithms, deforestation risk assessment, forest cover classification. <br><br>
+- Deforestation and Forest Degradation Detection: monitoring deforestation and forest degradation with multiple sensors. Time series analysis, change detection algorithms, deforestation risk assessment, forest cover classification. <br><br>
 - Agricultural Monitoring: multispectral and radar data to monitor crop health, estimate yield, and detect pests and diseases with vegetation indices, phenological metrics, and classification of crop types.<br><br>
-- Climate and Weather Analysis: Tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
-- Fire Detection and monitoring: Detecting active fires and mapping burned areas using MODIS and Sentinel-2 data. Fire hotspot detection, burn severity assessment, and post-fire vegetation recovery analysis.<br><br>
-- Water Resource Management: Tools and scripts for analyzing hydrological data, watershed delineation, water quality and flood risk assessment.<br><br>
+- Climate and Weather Analysis: tools to access and analyze climate data, such as precipitation, temperature, and drought indices, using GEE.<br><br>
+- Fire Detection and monitoring: detecting active fires and mapping burned areas using MODIS and Sentinel-2 data. Fire hotspot detection, burn severity assessment, and post-fire vegetation recovery analysis.<br><br>
+- Water Resource Management: tools and scripts for analyzing hydrological data, watershed delineation, water quality and flood risk assessment.<br><br>
 - Spatial Database Magamement: data engeneering with postgreSQL, postGIS, Google Big Query, Hadoop and Spark.<br><br>
-- WebGIS applications: Integrate GEE with web technologies, to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br>
+- WebGIS applications: integrate GEE with web technologies to create dynamic WebGIS applications that leverage real-time satellite imagery data visualization and user-friendly interactive mapping. <br><br>
 
 ### Contributions and Collaboration
 This profile is always in progress, so if you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback and reach out for collaborations by contacting me through my social medias.
