@@ -1,24 +1,32 @@
-## Hello world ! 🌍
-<p align="left"> 
+## Hello 🌍
+
+Welcome to my GitHub profile, where I showcase projects and contributions in **Geospatial Data Science**, with a focus on remote sensing and environmental analysis. My academic background includes a **Bachelor’s in Environmental Management** and an **MBA in Data Science and Analytics**.
+
+### Areas of Focus
+I am actively learning and developing projects in the following areas:
   
-Welcome to my GitHub profile, a repository for my projects and contributions in Geospatial Data Science with a specialized focus on Remote Sensing for environmental applications. My academic background includes a Bachelor’s degree in Environmental Management and a MBA in Data Science and Analytics. This profile highlights my work in geospatial data science, integrating remote sensing, spatial database management, machine learning, and data visualization to address critical environmental challenges. Here you'll find projects related to: <br><br>
 
-* Deforestation and Degradation Detection: Using multi-sensor approaches for deforestation monitoring, including time series analysis, change detection algorithms, deforestation risk assessment, and forest cover classification.
+#### Data Science  
+- **Deforestation and Land Degradation**: Monitoring deforestation and degradation through multi-sensor remote sensing, time series analysis, and change detection algorithms.  
+- **Agricultural Analytics**: Evaluating crop health, estimating yields, and analyzing risks using multispectral and radar data.  
+- **Climate and Weather Insights**: Creating tools for analyzing precipitation, temperature, and drought indices with platforms like **Google Earth Engine**.  
+- **Fire Monitoring**: Detecting active fires, mapping burned areas, and assessing recovery after wildfires.  
+- **Water Resource Management**: Performing hydrological analysis, flood risk assessments, and watershed modeling using GIS and remote sensing techniques.  
 
-* Agricultural Monitoring: Leveraging multispectral and radar data to monitor crop health, estimate yields, and detect agricultural risks such as pest and disease outbreaks, using vegetation indices, phenological metrics, and crop classification.
+#### Data Engineering  
+- **Pipeline Design**: Building scalable geospatial ETL/ELT workflows with **Airbyte**, **dbt**, **Apache Spark** and **Apache Airflow**.  
+- **Spatial Database Design**: Designing spatial databases and data warehouses with **PostgreSQL/PostGIS** and Google Cloud Platform.
+- **ML Lifecycle Management**: Managing machine learning workflows with **MLflow**, including experiment tracking, model versioning, and deployment.
 
-* Climate and Weather Analysis: Developing tools to analyze climate data (precipitation, temperature, drought indices) using Google Earth Engine for comprehensive climate and weather assessments.
+#### Data Visualization  
+- **Interactive Dashboards**: Developing web applications and dashboards with **Streamlit** and **FastAPI**, designed for geospatial data exploration and visualization.  
+- **Containerized Deployment**: Deploying visualization solutions in reproducible environments using **Docker**.  
+- **User-Centered Design**: Creating intuitive interfaces to simplify complex spatial data interpretation for stakeholders.  
 
-* Fire Detection and Monitoring: Detecting active fires and mapping burned areas with MODIS and Sentinel-2 data. Includes fire hotspot detection, burn severity assessment, and post-fire recovery analysis.
+### Collaboration
 
-* Water Resources Management: Analyzing hydrological data for watershed delineation, water quality monitoring, and flood risk assessment, utilizing various remote sensing and GIS techniques.
+I’m always open to collaboration. Feel free to fork repositories, submit pull requests, or reach out via social media for partnerships or feedback.
 
-* Spatial Data Management: Engineering robust spatial data infrastructures to support complex analyses, utilizing PostgreSQL/PostGIS, Spark and BigQuery to manage, query, and process large-scale geospatial data for efficient workflows and high-performance analyses.
-
-### Contributions and Collaboration
-
-This profile is always in progress, so if you have ideas for improvements, feel free to fork the repositories and submit pull requests. Open issues for bugs, questions, or requests, and I’ll be happy to engage with you. Feel free to provide feedback and reach out for collaborations by contacting me through my social medias.
-  <br><br>
 </p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
  </div>
