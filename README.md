@@ -1,15 +1,14 @@
 ## Hello 🌍
 
-Welcome to my GitHub profile, where I showcase projects and contributions in **Geospatial Data Science**, with a focus on remote sensing and environmental analysis. My academic background includes a **Bachelor’s degree in Environmental Management** and an **MBA in Data Science and Analytics** from the University of São Paulo.
+Welcome to my GitHub profile, where I showcase projects and contributions in **Geospatial Data Science**, with a focus on remote sensing and environmental analysis.
 
-### Areas of Focus
 I am actively learning and developing projects in the following areas:
   
 
 #### Data Science  
 - **Deforestation and Land Degradation**: Monitoring deforestation and degradation through multi-sensor remote sensing, time series analysis, and change detection algorithms.  
 - **Agricultural Analytics**: Evaluating crop health, estimating yields, and analyzing risks using multispectral and radar data.  
-- **Climate and Weather Insights**: Creating tools for analyzing precipitation, temperature, and drought indices with platforms like **Google Earth Engine**.  
+- **Climate and Weather Analyses**: Analyzing precipitation, temperature, evapotranspiration and drought indices with platforms like **Google Earth Engine**.  
 - **Fire Monitoring**: Detecting active fires, mapping burned areas, and assessing recovery after wildfires.  
 - **Water Resource Management**: Performing hydrological analysis, flood risk assessments, and watershed modeling using GIS and remote sensing techniques.  
 
@@ -19,9 +18,8 @@ I am actively learning and developing projects in the following areas:
 - **ML Lifecycle Management**: Managing machine learning workflows with **MLflow**, including experiment tracking, model versioning, and deployment.
 
 #### Data Visualization  
-- **Interactive Dashboards**: Developing web applications and dashboards with **Streamlit** and **FastAPI**, designed for geospatial data exploration and visualization.  
+- **Interactive Dashboards**: Developing web applications in Google Earth Engine and dashboards with **Streamlit** and **FastAPI**.
 - **Containerized Deployment**: Deploying visualization solutions in reproducible environments using **Docker**.  
-- **User-Centered Design**: Creating intuitive interfaces to simplify complex spatial data interpretation for stakeholders.  
 
 ### Collaboration
 
