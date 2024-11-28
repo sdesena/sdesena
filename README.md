@@ -1,6 +1,6 @@
 ## Hello 🌍
 
-Welcome to my GitHub profile, where I showcase projects and contributions in **Geospatial Data Science**, with a focus on remote sensing and environmental analysis. My academic background includes a **Bachelor’s in Environmental Management** and an **MBA in Data Science and Analytics**.
+Welcome to my GitHub profile, where I showcase projects and contributions in **Geospatial Data Science**, with a focus on remote sensing and environmental analysis. My academic background includes a **Bachelor’s degree in Environmental Management** and an **MBA in Data Science and Analytics** from the University of São Paulo.
 
 ### Areas of Focus
 I am actively learning and developing projects in the following areas:
