@@ -8,7 +8,7 @@ I am actively learning and developing projects in the following areas:
 #### Data Science  
 - **Deforestation and Land Degradation**: Monitoring deforestation and degradation through multi-sensor remote sensing, time series analysis, and change detection algorithms.  
 - **Agricultural Analytics**: Evaluating crop health, estimating yields, and analyzing risks using multispectral and radar data.  
-- **Climate and Weather Analyses**: Analyzing precipitation, temperature, evapotranspiration and drought indices with platforms like **Google Earth Engine**.  
+- **Climate and Weather Analysis**: Analyzing precipitation, temperature, evapotranspiration and drought indices with platforms like **Google Earth Engine**.  
 - **Fire Monitoring**: Detecting active fires, mapping burned areas, and assessing recovery after wildfires.  
 - **Water Resource Management**: Performing hydrological analysis, flood risk assessments, and watershed modeling using GIS and remote sensing techniques.  
 
