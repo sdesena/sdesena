@@ -1,18 +1,17 @@
 ## Hello 🌍
 
-Welcome to my GitHub profile, where I showcase projects and contributions in **Geospatial Data Science**, with a focus on remote sensing and environmental analysis.
+Welcome to my GitHub profile, where I showcase projects and contributions in **Environmental Management with Geotechnologies**.
 
-I am actively learning and developing projects in the following areas:
+I'm actively learning and developing projects in the following areas:
   
-
-#### Data Science  
+#### Data Science
 - **Deforestation and Land Degradation**: Monitoring deforestation and degradation through multi-sensor remote sensing, time series analysis, and change detection algorithms.  
 - **Agricultural Analytics**: Evaluating crop health, estimating yields, and analyzing risks using multispectral and radar data.  
 - **Climate and Weather Analysis**: Analyzing precipitation, temperature, evapotranspiration and drought indices with platforms like **Google Earth Engine**.  
 - **Fire Monitoring**: Detecting active fires, mapping burned areas, and assessing recovery after wildfires.  
 - **Water Resource Management**: Performing hydrological analysis, flood risk assessments, and watershed modeling using GIS and remote sensing techniques.  
 
-#### Data Engineering  
+#### Data Engineering 
 - **Pipeline Design**: Building scalable geospatial ETL/ELT workflows with **Airbyte**, **dbt**, **Apache Spark** and **Apache Airflow**.  
 - **Spatial Database Design**: Designing spatial databases and data warehouses with **PostgreSQL/PostGIS** and Google Cloud Platform.
 - **ML Lifecycle Management**: Managing machine learning workflows with **MLflow**, including experiment tracking, model versioning, and deployment.
