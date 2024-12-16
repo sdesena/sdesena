@@ -1,6 +1,6 @@
 ## Hello 🌍
 
-Welcome to my GitHub profile, where I showcase projects and contributions in **Environmental Management with Geotechnologies**.
+Welcome to my GitHub profile, where I showcase my projects and contributions in **Environmental Management with Geotechnologies**.
 
 I'm actively learning and developing projects in the following areas:
 
