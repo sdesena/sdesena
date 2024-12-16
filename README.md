@@ -6,10 +6,10 @@ I'm actively learning and developing projects in the following areas:
 
 - **Deforestation and Land Degradation**: Monitoring deforestation and degradation through multi-sensor remote sensing, time series analysis, and change detection algorithms.  
 - **Agricultural Analytics**: Evaluating crop health, estimating yields, and analyzing risks using multispectral and radar data.  
-- **Climate and Weather Analysis**: Analyzing precipitation, temperature, evapotranspiration and drought indices with platforms like **Google Earth Engine**.  
+- **Climate and Weather Analysis**: Analyzing precipitation, temperature, evapotranspiration and drought indices.  
 - **Fire Monitoring**: Detecting active fires, mapping burned areas, and assessing recovery after wildfires.  
-- **Water Resource Management**: Performing hydrological analysis, flood risk assessments, and watershed modeling using GIS and remote sensing techniques.  
-- **Pipeline Design**: Building scalable geospatial ETL/ELT workflows with **Airbyte**, **dbt**, **Apache Spark** and **Apache Airflow**.  
+- **Water Resource Management**: Performing hydrological and water quality analysis, flood risk assessments, and watershed modeling.  
+- **Pipeline Design**: Building scalable geospatial ETL/ELT workflows with **dbt**, **Apache Spark** and **Apache Airflow**.  
 - **Spatial Database Design**: Designing spatial databases and data warehouses with **PostgreSQL/PostGIS** and Google Cloud Platform.
 - **ML Lifecycle Management**: Managing machine learning workflows with **MLflow**, including experiment tracking, model versioning, and deployment.
 - **Interactive Dashboards**: Developing web applications in Google Earth Engine and dashboards with **Streamlit**.
