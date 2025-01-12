@@ -9,7 +9,7 @@ I'm actively learning and developing projects in the following areas:
 - **Climate and Weather Analysis**: Analyzing precipitation, temperature, evapotranspiration and drought indices.  
 - **Fire Monitoring**: Detecting active fires, mapping burned areas, and assessing recovery after wildfires.  
 - **Water Resource Management**: Performing hydrological and water quality analysis, flood risk assessments, and watershed modeling.  
-- **Pipelines Engineering**: Building scalable geospatial ETL/ELT pipelines with **DuckDB**, **dbt**, **Spark** and **Airflow**.  
+- **Pipelines Engineering**: Building scalable geospatial ETL/ELT pipelines with **Databricks**, **DuckDB** and **PySpark**.  
 - **Spatial Databases Design**: Designing spatial datalakes and data warehouses with **PostgreSQL/PostGIS** and Google Cloud Platform.
 - **ML Lifecycle Management**: Managing machine learning workflows with **MLflow**, including experiment tracking, model versioning, and deployment.
 - **Interactive Dashboards**: Developing web applications in Google Earth Engine and dashboards with **Streamlit**.
