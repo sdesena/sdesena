@@ -2,17 +2,36 @@
 
 Welcome to my GitHub profile, where I showcase my projects and contributions in **Environmental Management with Geotechnologies**.
 
-I'm actively learning and developing projects in the following areas:
+I am actively learning and developing projects that apply advanced geospatial analysis and machine learning techniques to address real-world challenges. My work spans several domains, each leveraging data science and engineering tools.
 
-- **Deforestation and Land Degradation**: Monitoring deforestation and degradation through multi-sensor remote sensing, time series analysis, and change detection algorithms.  
-- **Agricultural Analytics**: Evaluating crop health, estimating yields, and analyzing risks using multispectral and radar data.  
-- **Climate and Weather Analysis**: Analyzing precipitation, temperature, evapotranspiration and drought indices.  
-- **Fire Monitoring**: Detecting active fires, mapping burned areas, and assessing recovery after wildfires.  
-- **Water Resource Management**: Performing hydrological and water quality analysis, flood risk assessments, and watershed modeling.  
-- **Pipelines Engineering**: Building scalable geospatial ETL/ELT pipelines with **Databricks**, **DuckDB** and **PySpark**.  
-- **Spatial Databases Design**: Designing spatial datalakes and data warehouses with **PostgreSQL/PostGIS** and Google Cloud Platform.
-- **ML Lifecycle Management**: Managing machine learning workflows with **MLflow**, including experiment tracking, model versioning, and deployment.
-- **Interactive Dashboards**: Developing web applications in Google Earth Engine and dashboards with **Streamlit**.
+## Areas of Interest
+
+- **Deforestation & Land Degradation**  
+  Monitor deforestation and land degradation using multi-sensor remote sensing, time series analysis, and change detection algorithms.
+
+- **Agricultural Analytics**  
+  Evaluate crop health, estimate yields, and assess agricultural risks by harnessing multispectral and radar data.
+
+- **Climate & Weather Analysis**  
+  Analyze precipitation, temperature, evapotranspiration, and drought indices to understand climate patterns and inform decision-making.
+
+- **Fire Monitoring**  
+  Detect active fires, map burned areas, and evaluate post-wildfire recovery using remote sensing techniques.
+
+- **Water Resource Management**  
+  Conduct hydrological and water quality analyses, perform flood risk assessments, and build watershed models to support sustainable water resource management.
+
+- **Pipelines Engineering**  
+  Design and build scalable geospatial ETL/ELT pipelines utilizing **Databricks**, **DuckDB**, and **PySpark** for efficient data processing.
+
+- **Spatial Database Design**  
+  Develop spatial datalakes and data warehouses with **PostgreSQL/PostGIS** and Google Cloud Platform to store and manage geospatial data.
+
+- **ML Lifecycle Management**  
+  Manage machine learning workflows with **MLflow** for robust experiment tracking, model versioning, and deployment.
+
+- **Interactive Dashboards**  
+  Create interactive web applications and dashboards using Google Earth Engine and **Streamlit** to visualize geospatial insights.
 
 
 ### Collaboration
