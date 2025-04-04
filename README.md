@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile, where I showcase my projects and contributions in **Environmental Management with Geotechnologies**.
 
-I am actively learning and developing projects that apply advanced geospatial analysis and machine learning techniques to address real-world challenges. My work spans several domains, each leveraging data science and engineering tools.
+I am actively learning and developing projects that apply geospatial analysis and machine learning techniques to address real-world challenges. My work spans several domains, each leveraging data science and engineering tools.
 
 ## Areas of Interest
 
