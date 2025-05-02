@@ -13,7 +13,7 @@ I am actively learning and developing projects that apply geospatial analysis an
   Evaluate crop health, estimate yields, and assess agricultural risks by harnessing multispectral and radar data.
 
 - **Climate & Weather Analysis**  
-  Analyze precipitation, temperature, evapotranspiration, and drought indices to understand climate patterns and inform decision-making.
+  Analyze precipitation, temperature and evapotranspiration in time series to understand climate patterns and inform decision-making.
 
 - **Fire Monitoring**  
   Detect active fires, map burned areas, and evaluate post-wildfire recovery using remote sensing techniques.
@@ -21,17 +21,17 @@ I am actively learning and developing projects that apply geospatial analysis an
 - **Water Resource Management**  
   Conduct hydrological and water quality analyses, perform flood risk assessments, and build watershed models to support sustainable water resource management.
 
-- **Pipelines Engineering**  
-  Design and build scalable geospatial ETL/ELT pipelines utilizing **Databricks**, **DuckDB**, and **PySpark** for efficient data processing.
-
-- **Spatial Database Design**  
-  Develop spatial datalakes and data warehouses with **PostgreSQL/PostGIS** and Google Cloud Platform to store and manage geospatial data.
-
 - **ML Lifecycle Management**  
   Manage machine learning workflows with **MLflow** for robust experiment tracking, model versioning, and deployment.
 
 - **Interactive Dashboards**  
   Create interactive web applications and dashboards using Google Earth Engine and **Streamlit** to visualize geospatial insights.
+
+- **Pipelines Engineering**  
+  Design and build scalable geospatial ETL/ELT pipelines utilizing **GeoPandas**, **Apache Sedona** and **PySpark** for efficient data processing.
+
+- **Spatial Database Design**  
+  Develop spatial datalakes and data warehouses with **PostgreSQL/PostGIS** and **Google Cloud Platform** to store and manage geospatial data.
 
 
 ### Collaboration
