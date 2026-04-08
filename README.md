@@ -1,37 +1,26 @@
-## Hello 🌍
+Welcome to my GitHub profile. I build projects at the intersection of **Geospatial Data Engineering** and **Geospatial Data Science**, applying data-driven approaches to environmental and spatial challenges.
 
-Welcome to my GitHub profile, where I showcase my projects and contributions in **Environmental Management with Geotechnologies**.
+I focus on designing scalable pipelines, analyzing spatiotemporal data, and developing machine learning solutions using remote sensing and geospatial technologies.
 
-I am actively learning and developing projects that apply geospatial analysis and machine learning techniques to address real-world challenges. My work spans several domains, each leveraging data science and engineering tools.
+### Core Focus Areas
 
-## Areas of Interest
+- **Geospatial Data Engineering**  
+  Design and implement scalable ETL/ELT pipelines for spatial data using GeoPandas, PySpark, and Apache Sedona.
 
-- **Deforestation & Land Degradation**  
-  Monitor deforestation and land degradation using multi-sensor remote sensing, time series analysis, and change detection algorithms.
+- **Spatial Data Platforms**  
+  Build and manage spatial datalakes and data warehouses with PostgreSQL/PostGIS and Google Cloud Platform (GCP).
 
-- **Agricultural Analytics**  
-  Evaluate crop health, estimate yields, and assess agricultural risks by harnessing multispectral and radar data.
+- **Geospatial Data Science**  
+  Apply machine learning and time series analysis to remote sensing data for environmental monitoring.
 
-- **Climate & Weather Analysis**  
-  Analyze precipitation, temperature and evapotranspiration in time series to understand climate patterns and inform decision-making.
+- **Earth Observation Applications**  
+  Work with multispectral and radar data for deforestation, agriculture, fire detection, climate, and water resources.
 
-- **Fire Monitoring**  
-  Detect active fires, map burned areas, and evaluate post-wildfire recovery using remote sensing techniques.
+- **MLOps & Experiment Tracking**  
+  Manage ML workflows, versioning, and deployment using MLflow.
 
-- **Water Resource Management**  
-  Conduct hydrological and water quality analyses, perform flood risk assessments, and build watershed models to support sustainable water resource management.
-
-- **ML Lifecycle Management**  
-  Manage machine learning workflows with **MLflow** for robust experiment tracking, model versioning, and deployment.
-
-- **Interactive Dashboards**  
-  Create interactive web applications and dashboards using Google Earth Engine and **Streamlit** to visualize geospatial insights.
-
-- **Pipelines Engineering**  
-  Design and build scalable geospatial ETL/ELT pipelines utilizing **GeoPandas**, **Apache Sedona** and **PySpark** for efficient data processing.
-
-- **Spatial Database Design**  
-  Develop spatial datalakes and data warehouses with **PostgreSQL/PostGIS** and **Google Cloud Platform** to store and manage geospatial data.
+- **Data Visualization**  
+  Develop interactive geospatial dashboards with Google Earth Engine and Streamlit.
 
 
 ### Collaboration
