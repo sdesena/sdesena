@@ -1,8 +1,6 @@
 Welcome to my GitHub profile. I build projects at the intersection of **Geospatial Data Engineering** and **Geospatial Data Science**, applying data-driven approaches to environmental and spatial challenges.
 
-I focus on designing scalable pipelines, analyzing spatiotemporal data, and developing machine learning solutions using remote sensing and geospatial technologies.
-
-### Core Focus Areas
+I focus on designing scalable pipelines, analyzing spatiotemporal data, and developing machine learning solutions using remote sensing and geospatial technologies. Here you'll find my projects related to:
 
 - **Geospatial Data Engineering**  
   Design and implement scalable ETL/ELT pipelines for spatial data using GeoPandas, PySpark, and Apache Sedona.
