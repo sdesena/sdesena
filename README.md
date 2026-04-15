@@ -23,7 +23,7 @@ I focus on designing scalable pipelines, analyzing spatiotemporal data, and deve
 
 ### Collaboration
 
-I’m always open to collaboration. Feel free to fork repositories, submit pull requests, or reach out via social media for partnerships or feedback.
+I’m always open to collaboration. Feel free to fork repositories, open issues, submit pull requests, or reach out via social media for partnerships or feedback.
 
 </p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
