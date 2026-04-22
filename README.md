@@ -1,24 +1,13 @@
-Welcome to my GitHub profile. I build projects at the intersection of **Geospatial Data Engineering** and **Geospatial Data Science**, applying data-driven approaches to environmental and spatial challenges.
+Hello, I'm a MSc candidate in Applied Computing at INPE, with a background in Data Science and a BSc in Environmental Management from the University of São Paulo. Here you'll find some of my projects related to:
 
-I focus on designing scalable pipelines, analyzing spatiotemporal data, and developing machine learning solutions using remote sensing and geospatial technologies. Here you'll find my projects related to:
+- **Data Engineering**  
+  Design and maintain scalable pipelines and spatial databases (PostgreSQL/PostGIS, GDAL, cloud workflows) for geospatial data processing.
 
-- **Geospatial Data Engineering**  
-  Design and implement scalable ETL/ELT pipelines for spatial data using GeoPandas, PySpark, and Apache Sedona.
+- **Data Science**  
+  Apply statistical analysis, time series, machine learning and deep learning to remote sensing and environmental datasets.
 
-- **Spatial Data Platforms**  
-  Build and manage spatial datalakes and data warehouses with PostgreSQL/PostGIS and Google Cloud Platform (GCP).
-
-- **Geospatial Data Science**  
-  Apply machine learning and time series analysis to remote sensing data for environmental monitoring.
-
-- **Earth Observation Applications**  
-  Work with multispectral and radar data for deforestation, agriculture, fire detection, climate, and water resources.
-
-- **MLOps & Experiment Tracking**  
-  Manage ML workflows, versioning, and deployment using MLflow.
-
-- **Data Visualization**  
-  Develop interactive geospatial dashboards with Google Earth Engine and Streamlit.
+- **Earth Observation**  
+  Work with multispectral and SAR data using Python, Google Earth Engine and Geographic Information Systems (GIS).
 
 
 ### Collaboration
