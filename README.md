@@ -1,4 +1,4 @@
-Hello, I'm a MSc candidate in Applied Computing at INPE, with a background in Data Science and a BSc in Environmental Management from the University of São Paulo. Here you'll find some of my projects related to:
+Hello, I'm a MSc candidate in Applied Computing at INPE, with a MBA in Data Science and a BSc in Environmental Management from the University of São Paulo. Here you'll find some of my projects related to:
 
 - **Data Engineering**  
   Design and maintain scalable pipelines and spatial databases (PostgreSQL/PostGIS, GDAL, cloud workflows) for geospatial data processing.
