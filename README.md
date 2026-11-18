@@ -1,13 +1,13 @@
 Hello, I'm a MSc candidate in Applied Computing at INPE, with a MBA in Data Science and a BSc in Environmental Management from the University of São Paulo. Here you'll find some of my projects related to:
 
 - **Data Engineering**  
-  Design and maintain scalable pipelines and spatial databases (PostgreSQL/PostGIS, GDAL, cloud workflows) for geospatial data processing.
+  Design and maintain scalable pipelines and spatial databases (PostgreSQL/PostGIS), data lakes and lakehouses for geospatial data storage and processing.
 
 - **Data Science**  
   Apply statistical analysis, time series, machine learning and deep learning to remote sensing and environmental datasets.
 
 - **Earth Observation**  
-  Work with multispectral and SAR data using Python, Google Earth Engine and Geographic Information Systems (GIS).
+  Work with multispectral satellite imagery and SAR data using Python, R, Google Earth Engine and Geographic Information Systems (GIS).
 
 
 ### Collaboration
